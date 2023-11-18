@@ -18,13 +18,14 @@ $ git clone <https://github.com/Herbeth-LKS/Desafio-Tecnico-1-escribo>
 $ cd Desafio-Tecnico-1-escribo
 
 # Rode o arquivo desafio.html
+abra o arquivo em um navegador ou usando um servidor local
 
 # É posivel testar a função sem rodar o codigo html
 utilizando o codigo Console.log(somaMultiplos()) passando um numero inteiro como parametro para a função
 
 
 
-### 🛠 Tecnologias
+# 🛠 Tecnologias
 
 As seguintes ferramentas foram usadas na construção do projeto:
 

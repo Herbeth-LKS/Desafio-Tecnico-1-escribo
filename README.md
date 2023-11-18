@@ -19,18 +19,8 @@ $ cd Desafio-Tecnico-1-escribo
 
 # Rode o arquivo desafio.html
 
-
-
-
-
-
-
-
-
-
-
-
-
+# É posivel testar a função sem rodar o codigo html
+utilizando o codigo Console.log(somaMultiplos()) passando um numero inteiro como parametro para a função
 
 
 

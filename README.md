@@ -1,11 +1,11 @@
 <h1 align="center">soma dos numeros divisiveis por 3 e 5</h1>
-<p1 a="(https://getbootstrap.com/">Bootstrap 5</p1>
 
 
 ### Pré-requisitos
 
 Antes de começar, você vai precisar ter instalado em sua máquina as seguintes ferramentas:
 [Git](https://git-scm.com), [Node.js](https://nodejs.org/en/) (caso queira rodar o codigo javascript sem o navegador). 
+
 
 
 ### 🎲 Rodando o projeto
@@ -23,12 +23,11 @@ abra o arquivo em um navegador ou usando um servidor local
 # É posivel testar a função sem rodar o codigo html
 utilizando o codigo Console.log(somaMultiplos()) passando um numero inteiro como parametro para a função
 
-
+[Git](https://git-scm.com)
 
 # 🛠 Tecnologias
-As seguintes ferramentas foram usadas na construção do projeto:
-
+As seguintes ferramentas foram usadas na construção do projeto
 [Git](https://git-scm.com)
-<p1 a="(https://getbootstrap.com/">Bootstrap 5</p1>
 [Bootstrap 5](https://getbootstrap.com/)
 [javascript](https://developer.mozilla.org/pt-BR/docs/Web/JavaScript)
+[Node.js](https://nodejs.org/en/)

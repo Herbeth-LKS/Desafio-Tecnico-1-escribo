@@ -7,9 +7,8 @@ Antes de começar, você vai precisar ter instalado em sua máquina as seguintes
 [Git](https://git-scm.com), [Node.js](https://nodejs.org/en/) (caso queira rodar o codigo javascript sem o navegador). 
 
 
-
 ### 🎲 Rodando o projeto
-
+```bash
 
 # Clone este repositório
 $ git clone <https://github.com/Herbeth-LKS/Desafio-Tecnico-1-escribo>

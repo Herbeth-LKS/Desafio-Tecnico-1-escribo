@@ -21,8 +21,8 @@ abra o arquivo em um navegador ou usando um servidor local
 
 # É posivel testar a função sem rodar o codigo html
 utilizando o codigo Console.log(somaMultiplos()) passando um numero inteiro como parametro para a função
+```
 
-````
 ### 🛠 Tecnologias
 As seguintes ferramentas foram usadas na construção do projeto:
 

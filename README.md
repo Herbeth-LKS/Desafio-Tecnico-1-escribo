@@ -10,7 +10,7 @@ Antes de começar, você vai precisar ter instalado em sua máquina as seguintes
 
 ### 🎲 Rodando o projeto
 
-```bash
+
 # Clone este repositório
 $ git clone <https://github.com/Herbeth-LKS/Desafio-Tecnico-1-escribo>
 
@@ -23,11 +23,10 @@ abra o arquivo em um navegador ou usando um servidor local
 # É posivel testar a função sem rodar o codigo html
 utilizando o codigo Console.log(somaMultiplos()) passando um numero inteiro como parametro para a função
 
-[Git](https://git-scm.com)
 
-# 🛠 Tecnologias
-As seguintes ferramentas foram usadas na construção do projeto
-[Git](https://git-scm.com)
+### 🛠 Tecnologias
+As seguintes ferramentas foram usadas na construção do projeto:
+
 [Bootstrap 5](https://getbootstrap.com/)
 [javascript](https://developer.mozilla.org/pt-BR/docs/Web/JavaScript)
-[Node.js](https://nodejs.org/en/)
+

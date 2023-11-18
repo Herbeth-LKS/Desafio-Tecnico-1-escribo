@@ -26,8 +26,8 @@ utilizando o codigo Console.log(somaMultiplos()) passando um numero inteiro como
 
 
 # 🛠 Tecnologias
-
 As seguintes ferramentas foram usadas na construção do projeto:
+
 [Git](https://git-scm.com)
 [Bootstrap 5](https://getbootstrap.com/)
 [javascript](https://developer.mozilla.org/pt-BR/docs/Web/JavaScript)
